@@ -11,5 +11,4 @@ dp[0] = 1
 for i in money:
   for j in range(i, k+1):
     dp[j] += dp[j-i] # dp[j-i]에 해당 원(money)을 빼는 과정 
-
 print(dp[k])
