@@ -17,10 +17,11 @@ if N > 1:
   else:
     result3 = count[0][0]
 else:
-  print(num[0])
+  result3 = num[0]
   
 result4 = num[-1] - num[0]
 
+# print("%.f" % result1)
 print(result1)
 print(result2)
 print(result3)
