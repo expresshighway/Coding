@@ -1,3 +1,4 @@
+# 에러를 찾지 못하는 중 도와줘어
 N = int(input())
 A = list(map(int, input().split()))
 B = sorted(A, reverse=True)
