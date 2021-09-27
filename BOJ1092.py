@@ -23,5 +23,4 @@ else:
                               del sorted_ship[j]
                               break
             count += 1
-
 print(count)
