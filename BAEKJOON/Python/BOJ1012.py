@@ -41,6 +41,3 @@ for i in range(T):
         count += 1
   
   print(count)
-        
-  
-  
